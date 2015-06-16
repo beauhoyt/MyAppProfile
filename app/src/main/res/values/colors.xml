@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="udacity_lightblue" type="color">#ffdfeaf1</item>
+    <item name="udacity_orange" type="color">#f08c35</item>
+    <item name="udacity_red" type="color">#da2d55</item>
+</resources>
